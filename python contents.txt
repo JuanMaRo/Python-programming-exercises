@@ -1,7 +1,12 @@
 Python
-The below table largely covers the TOC for 5 popular books. Learning Python (Fourth Edition) has a more in-depth look at concepts than any of the other books. However this book also does not essentially cover some aspects that are covered in other books.
-No.	Diving into Python	The Python Standard Library by Example	Python Essential Reference (4th edition)	The Quick Python Book	Learning Python
-Introductory Concepts covering installation on different OS, version history, interpreter. This section also covers questions like Why, Who, What and Where on Python.
+The below table largely covers the TOC for 5 popular books. Learning Python
+(Fourth Edition) has a more in-depth look at concepts than any of the other books.
+However this book also does not essentially cover some aspects that are covered
+in other books.
+No.	Diving into Python	The Python Standard Library by Example	Python Essential
+Reference (4th edition)	The Quick Python Book	Learning Python
+Introductory Concepts covering installation on different OS, version history, interpreter.
+This section also covers questions like Why, Who, What and Where on Python.
 1	1.	Installing Python
 2.	Which Python is right for you ?
 3.	Python & your OS
