@@ -167,7 +167,8 @@ The output of the program should be:
 18,22,24
 
 Hints:
-If the output received is in decimal form, it should be rounded off to its nearest value (for example, if the output received is 26.0, it should be printed as 26)
+If the output received is in decimal form, it should be rounded off to its nearest
+value (for example, if the output received is 26.0, it should be printed as 26)
 In case of input data being supplied to the question, it should be assumed to be a console input.
 
 Solution:
@@ -188,7 +189,8 @@ Question 7
 Level 2
 
 Question:
-Write a program which takes 2 digits, X,Y as input and generates a 2-dimensional array. The element value in the i-th row and j-th column of the array should be i*j.
+Write a program which takes 2 digits, X,Y as input and generates a 2-dimensional
+array. The element value in the i-th row and j-th column of the array should be i*j.
 Note: i=0,1.., X-1; j=0,1,¡­Y-1.
 Example
 Suppose the following inputs are given to the program:
@@ -197,7 +199,8 @@ Then, the output of the program should be:
 [[0, 0, 0, 0, 0], [0, 1, 2, 3, 4], [0, 2, 4, 6, 8]]
 
 Hints:
-Note: In case of input data being supplied to the question, it should be assumed to be a console input in a comma-separated form.
+Note: In case of input data being supplied to the question, it should be assumed
+to be a console input in a comma-separated form.
 
 Solution:
 input_str = raw_input()
