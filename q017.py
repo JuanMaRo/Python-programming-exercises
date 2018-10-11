@@ -11,9 +11,11 @@ def account():
         if command == 'd':
             d = int(input('deposito de $'))
             dep += d
+            print('deposito de ${}'.format(dep))
         elif command == 'w':
             w = int(input('retiro de $'))
-            print('deposito de ${}'.format(dep - w))
+            dep -= w
+            print('deposito de ${}'.format(dep))
         else:
             break
 
