@@ -6,10 +6,10 @@ class Estudiante(object):
         self.nombre = str(input('Tu nombre es '))
 
     def printString(self):
-        return self.nombre.upper()
+        print(self.nombre.upper())
 
 
 if __name__ == '__main__':
     e = Estudiante()
     e.getString()
-    print(e.printString())
+    e.printString()

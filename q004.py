@@ -1,6 +1,6 @@
 def run(x):
     lista = x.split(',')
-    t = tuple(lista)
+    t = (lista)
     print(lista)
     print(t)
 
